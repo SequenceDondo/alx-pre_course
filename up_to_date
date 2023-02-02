@@ -1,1 +1,22 @@
-git pull
+git comannds
+
+cd - linux command to travel through directories
+pwd- see current directory  ls- see list of contents
+touch [] - to create files 
+mkdir [] - create directories
+rm [] - delete file
+rm -r [] - delete directory
+echo ["text input"] > file - writing text to files
+
+
+git pull - pull from online to local
+git checkout [] - switch branches
+git branch - to see branches
+git add .
+git commit -m “[descriptive message]”
+commit your staged content as a new commit snapshot
+
+git push - push to remote github
+
+always press "exit" to leave terminal
+
